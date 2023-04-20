@@ -1,4 +1,4 @@
-# Tp 5 de linux : Api minecraft server deploiment
+# Api minecraft server deploiment
 
 #### collaborateur : Yanice Bousseria, Aymeric Lavaud, Victor Dalamel de Bournet
 
@@ -18,7 +18,7 @@
 
 ### Choix de la solution
 
-Pour le tp 5, nous avons choisi de faire une api capable de lancer rapidement des serveurs minecraft heberger sur un serveur (Notre machine, une vm ou meme un serveur qu'on loue).
+Nous avons choisi de faire une api capable de lancer rapidement des serveurs minecraft heberger sur un serveur (Notre machine, une vm ou meme un serveur qu'on loue).
 Une fois le service executé, on à accès au serveur et jouer à Minecraft !
 
 
@@ -28,10 +28,6 @@ Pour mettre en place me service nous avons créé un script, pour l'executer, il
 bash script
 ```
 ![alt text](https://miro.medium.com/max/688/1*aqOwM4T47u7riL32Fn235Q.png)
-
-Voici le repo dans lequel vous pouvez avoir accès au code de notre api   
-https://github.com/Ciremy/express-docker
-
 
 
 ### Maîtrise de la solution
